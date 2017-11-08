@@ -29,7 +29,7 @@ public class CsedemoAgent {
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return "hi, " Tom "! welcome to SericeStage";
+        return "hi, Tom! welcome to ServiceStage";
     };
 
 
